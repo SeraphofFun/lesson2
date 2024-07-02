@@ -1,0 +1,7 @@
+﻿  Lesson2.cpp
+C:\Users\mamma_ed53\source\repos\Lesson2\Lesson2\Lesson2.cpp(6,10): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1251)
+C:\Users\mamma_ed53\source\repos\Lesson2\Lesson2\Lesson2.cpp(6,10): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1251)
+C:\Users\mamma_ed53\source\repos\Lesson2\Lesson2\Lesson2.cpp(6,10): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1251)
+C:\Users\mamma_ed53\source\repos\Lesson2\Lesson2\Lesson2.cpp(6,10): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1251)
+C:\Users\mamma_ed53\source\repos\Lesson2\Lesson2\Lesson2.cpp(6,10): warning C4566: character represented by universal-character-name '\u00FC' cannot be represented in the current code page (1251)
+  Lesson2.vcxproj -> C:\Users\mamma_ed53\source\repos\Lesson2\x64\Debug\Lesson2.exe
