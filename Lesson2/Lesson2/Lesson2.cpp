@@ -10,14 +10,21 @@ int main()
 
 
 	double R1;
+
 	cout << "yazin R1 qiymeti = ";
+
 	cin >> R1;
+
 	double R2;
+
 	cout << "yazin R2 qiymeti = ";
 
 	cin >> R2;
+
 	double R3;
+
 	cout << "yazin R3 qiymeti = ";
+
 
 	cin >> R3;
 	double R0=(R1 * R2 *R3)/ (R1 * R2 + R1 * R3 + R3 * R2);
@@ -74,6 +81,9 @@ int main()
 	cin >> qs;
 	double tarif = 0.3;
 	double danisvaxt = (qsa*3600+qd*60+qs - (bsa * 3600 + bd * 60 + bs))/60;
+
 	double qiymet = danisvaxt*tarif; 
+
 	cout << "qiymetin = " << qiymet;
+
 }
